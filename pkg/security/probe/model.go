@@ -9,7 +9,6 @@
 package probe
 
 import (
-	"fmt"
 	"path"
 	"strings"
 	"syscall"
@@ -549,9 +548,7 @@ func (ev *Event) ResolveNetworkDeviceIfName(device *model.NetworkDeviceContext) 
 			device.IfName = tcProbe.IfName
 		}
 	}
-	if ev.probe == nil {
-		fmt.Println("NILLY")
-	}
+
 	return device.IfName
 }
 
