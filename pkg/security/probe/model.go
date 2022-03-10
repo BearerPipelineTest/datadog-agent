@@ -9,6 +9,7 @@
 package probe
 
 import (
+	"fmt"
 	"path"
 	"strings"
 	"syscall"
