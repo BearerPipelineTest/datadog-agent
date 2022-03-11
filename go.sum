@@ -130,6 +130,10 @@ github.com/DataDog/ebpf v0.0.0-20220301203322-3fc9ab3b8daf h1:RySWcA0EFIp3NL9ebH
 github.com/DataDog/ebpf v0.0.0-20220301203322-3fc9ab3b8daf/go.mod h1:tSPYMUcskM0OLVEJSoydgYUVuhX8hOSmtaSLNtOQThg=
 github.com/DataDog/ebpf-manager v0.0.0-20220223090948-29871766cdd0 h1:l14hQXv4WHQC73615vxP2uLuNXr/wg0MlGMFaZXJCHc=
 github.com/DataDog/ebpf-manager v0.0.0-20220223090948-29871766cdd0/go.mod h1:JREvXLXB81mkeu9WDvR0I8zvhovni3TmNBrAvJU0DGI=
+github.com/DataDog/ebpf-manager v0.0.0-20220311134032-ff955b536edf h1:3WB/33daMNdSrH4Gf1GmsbfzAWekq0L2ZA07Rnu6s9c=
+github.com/DataDog/ebpf-manager v0.0.0-20220311134032-ff955b536edf/go.mod h1:JREvXLXB81mkeu9WDvR0I8zvhovni3TmNBrAvJU0DGI=
+github.com/DataDog/ebpf-manager v0.0.0-20220311151115-c173a483cfeb h1:LD82SZL1qqj3kgpL9TuPu9odsnphKFEe6096DAv5jks=
+github.com/DataDog/ebpf-manager v0.0.0-20220311151115-c173a483cfeb/go.mod h1:JREvXLXB81mkeu9WDvR0I8zvhovni3TmNBrAvJU0DGI=
 github.com/DataDog/extendeddaemonset v0.5.1-0.20210315105301-41547d4ff09c h1:a9OMhZzrrB4nd2eAsXZIBkQ061Gb/QT4CI2g+OWWevs=
 github.com/DataDog/extendeddaemonset v0.5.1-0.20210315105301-41547d4ff09c/go.mod h1:lMIXf2EAzxbIv2zEvWu1bdqlaclUWoCtN13MHuPcY5I=
 github.com/DataDog/gohai v0.0.0-20220121142033-4006c7a9c63d h1:IDaPE9yacR5zku/mtqvVEDnBD4MfUVjtQEEoOXCxcBo=
